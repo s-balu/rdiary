@@ -1,0 +1,34 @@
+# Sphinx build directory
+build/
+**/build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+*.dll
+
+# VS Code / JetBrains IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sphinx temporary / doctrees
+*.doctree
+*.lock
+
+# Notebook checkpoints (if you ever add notebooks)
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Optional: local config files
+conf_local.py
