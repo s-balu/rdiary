@@ -9,7 +9,7 @@
 project = "daily"
 copyright = "2025, balu"
 author = "balu"
-release = "0.7"
+release = "0.314"
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
